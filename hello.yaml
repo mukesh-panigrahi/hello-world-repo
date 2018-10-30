@@ -19,6 +19,6 @@ spec:
     spec:
       containers:
       - name: hello-world
-        image: Kartik-1611/hello-world-repo
+        image: kartik16/hello-world-repo
         ports:
         - containerPort: 80
