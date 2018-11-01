@@ -6,7 +6,7 @@ metadata:
     app: web
   annotations:
     flux.weave.works/automated: 'true'
-    flux.weave.works/tag.hello-world: glob:hello-world-repo*
+    flux.weave.works/tag.hello-world: glob:hello-world*
 spec:
   replicas: 1
   selector:
