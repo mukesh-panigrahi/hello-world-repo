@@ -6,7 +6,7 @@
 
 <?php
 
-echo "Prow testing, Git testing v6 !!!";
+echo "Prow testing, Git testing v7 !!!";
 
 ?> 
 
